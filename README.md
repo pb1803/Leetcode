@@ -14,6 +14,7 @@
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0206-reverse-linked-list](https://github.com/pb1803/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pb1803/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
