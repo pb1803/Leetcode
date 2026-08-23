@@ -14,12 +14,14 @@
 | [0009-palindrome-number](https://github.com/pb1803/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -43,6 +46,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
