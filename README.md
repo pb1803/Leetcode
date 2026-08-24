@@ -15,6 +15,7 @@
 | [0009-palindrome-number](https://github.com/pb1803/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -29,6 +30,7 @@
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pb1803/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pb1803/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -41,6 +43,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -50,6 +53,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -59,6 +63,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
@@ -100,6 +105,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
+| [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +114,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
