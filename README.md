@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pb1803/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pb1803/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -43,6 +45,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -92,8 +95,17 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
