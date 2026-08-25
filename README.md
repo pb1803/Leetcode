@@ -118,4 +118,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pb1803/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
