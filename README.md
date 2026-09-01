@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pb1803/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pb1803/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pb1803/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -40,6 +41,7 @@
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pb1803/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pb1803/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pb1803/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -168,4 +171,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pb1803/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pb1803/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
