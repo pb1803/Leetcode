@@ -20,6 +20,7 @@
 | [0002-add-two-numbers](https://github.com/pb1803/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pb1803/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/pb1803/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 ## Sorting
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/pb1803/Leetcode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
