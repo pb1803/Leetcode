@@ -22,6 +22,7 @@
 | [0009-palindrome-number](https://github.com/pb1803/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
@@ -114,6 +115,7 @@
 | [0002-add-two-numbers](https://github.com/pb1803/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/pb1803/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pb1803/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pb1803/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pb1803/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -136,6 +138,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
