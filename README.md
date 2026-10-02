@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pb1803/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
@@ -175,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/pb1803/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -244,10 +246,12 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pb1803/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pb1803/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
