@@ -49,6 +49,7 @@
 | [0136-single-number](https://github.com/pb1803/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pb1803/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/pb1803/Leetcode/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/pb1803/Leetcode/tree/master/0486-predict-the-winner) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
@@ -149,6 +150,7 @@
 | [0136-single-number](https://github.com/pb1803/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pb1803/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/pb1803/Leetcode/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pb1803/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
