@@ -21,6 +21,7 @@
 | [0002-add-two-numbers](https://github.com/pb1803/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pb1803/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/pb1803/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/pb1803/Leetcode/tree/master/0486-predict-the-winner) |
@@ -147,6 +148,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pb1803/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/pb1803/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pb1803/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
