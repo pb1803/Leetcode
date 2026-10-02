@@ -26,6 +26,7 @@
 | [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/pb1803/Leetcode/tree/master/0486-predict-the-winner) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/pb1803/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
@@ -158,6 +159,7 @@
 | [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pb1803/Leetcode/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/pb1803/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pb1803/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pb1803/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
