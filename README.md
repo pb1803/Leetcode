@@ -40,6 +40,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/pb1803/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pb1803/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
@@ -146,6 +147,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pb1803/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/pb1803/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/pb1803/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
