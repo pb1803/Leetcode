@@ -42,6 +42,7 @@
 | [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pb1803/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0856-score-of-parentheses](https://github.com/pb1803/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/pb1803/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pb1803/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pb1803/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/pb1803/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/pb1803/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
