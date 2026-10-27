@@ -25,6 +25,7 @@
 | [0070-climbing-stairs](https://github.com/pb1803/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/pb1803/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/pb1803/Leetcode/tree/master/0486-predict-the-winner) |
+| [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pb1803/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/pb1803/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
@@ -58,6 +59,7 @@
 | [0169-majority-element](https://github.com/pb1803/Leetcode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/pb1803/Leetcode/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/pb1803/Leetcode/tree/master/0486-predict-the-winner) |
+| [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
@@ -261,4 +263,24 @@
 | [0022-generate-parentheses](https://github.com/pb1803/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pb1803/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pb1803/Leetcode/tree/master/0090-subsets-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
