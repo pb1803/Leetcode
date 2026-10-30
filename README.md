@@ -61,6 +61,7 @@
 | [0486-predict-the-winner](https://github.com/pb1803/Leetcode/tree/master/0486-predict-the-winner) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1386-cinema-seat-allocation](https://github.com/pb1803/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pb1803/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1872-stone-game-viii](https://github.com/pb1803/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pb1803/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pb1803/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -156,6 +157,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/pb1803/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/pb1803/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/pb1803/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pb1803/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pb1803/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
@@ -175,6 +177,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/pb1803/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pb1803/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
