@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pb1803/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/pb1803/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pb1803/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/pb1803/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pb1803/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -283,4 +284,8 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/pb1803/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/pb1803/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
